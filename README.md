@@ -19,13 +19,6 @@ Game developer with a passion for creating immersive experiences. I focus on com
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=llamanh0&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-
 ## 🎯 Current Focus
 
 - Developing innovative game mechanics
