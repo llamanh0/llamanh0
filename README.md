@@ -71,27 +71,6 @@
   </table>
 </div>
 
-## 📊 Skill Proficiency
-
-<div align="center">
-  
-```mermaid
-journey
-  title Expertise Levels
-  section Game Development
-    Unity: 5: Me
-    C#: 5: Me
-    Game Design: 4: Me
-  section Programming
-    C: 4: Me
-    C++: 3: Me
-    Low Level: 4: Me
-  section Tools
-    Git: 4: Me
-    Blender: 3: Me
-    Photoshop: 3: Me
-```
-
 </div>
 
 ## 🏆 Achievements & Certifications
