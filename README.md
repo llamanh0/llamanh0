@@ -21,9 +21,4 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
  etc.
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llamanh0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llamanh0&theme=react&hide_border=true&bg_color=0D1117&title_color=A78BFA&layout=compact)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=llamanh0&color=A78BFA&style=flat)
